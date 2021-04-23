@@ -1,6 +1,6 @@
 forge 'https://forge.puppet.com'
 
-mod 'puppelabs-ntp', '8.0.0'
+mod 'puppetlabs-ntp', '8.0.0'
 
 mod 'apache',
   :git => 'https://github.com/J0riz/puppet-apache'
